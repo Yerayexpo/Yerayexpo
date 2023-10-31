@@ -29,6 +29,7 @@ Hello there! ✌️ My name is Yeray Exposito, and I am currently on the lookout
 <a href="https://wakatime.com/@018b8092-3f15-4d6f-a40a-b805177ce9fb"><img src="https://wakatime.com/badge/user/018b8092-3f15-4d6f-a40a-b805177ce9fb.svg" alt="Total time coded since Oct 30 2023" /></a>
 </p>
 <p align="center">
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yerayexpo)](https://github.com/anuraghazra/github-readme-stats)</p>
 
 ## Chek out my Repos 👇
