@@ -1,14 +1,16 @@
 
 
 # About Me
-<div style="text-align:center;">
+<p align="center">
 Hello there! ✌️ My name is Yeray Exposito, and I am currently on the lookout for new career opportunities. 
-
+</p>
+<p align="center">
 📚 As of now, I am Teacher Assitant in a bootcamp.
-
-🎇 I’m currently focusing on Data Science
-
-💬 Ask me about **Webscraping, Data visualization, Machine Learning, AWS**
+</p>
+<p align="center">
+🎇 I’m currently focusing on Data Science</p>
+<p align="center">
+💬 Ask me about **Webscraping, Data visualization, Machine Learning, AWS**</p>
 <p align="center">
 📫 How to reach me 👇
 </p>
