@@ -1,7 +1,7 @@
-<div style="text-align:center;">
+
 
 # About Me
-
+<div style="text-align:center;">
 Hello there! ✌️ My name is Yeray Exposito, and I am currently on the lookout for new career opportunities. 
 
 📚 As of now, I am Teacher Assitant in a bootcamp.
@@ -28,3 +28,4 @@ Hello there! ✌️ My name is Yeray Exposito, and I am currently on the lookout
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yerayexpo)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Chek out my Repos 👇
+</div>
