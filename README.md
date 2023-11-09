@@ -1,15 +1,14 @@
 
 
-# About Me
+# About Me 
 <div align="center">
 Hello there! ✌️ My name is Yeray Exposito, and I am currently on the lookout for new career opportunities. 
-
 📚 As of now, I am Teacher Assitant in a bootcamp.
 
 🎇 I’m currently focusing on Data Science</p>
 
 💬 Ask me about **Webscraping, Data visualization, Machine Learning, AWS**</p>
-
+💪 [My Portfolio](https://yeray-expo.streamlit.app/)
 📫 How to reach me 👇
 
 <a href="https://linkedin.com/in/yeray-exposito" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yeray-exposito" height="30" width="40" /></a>
