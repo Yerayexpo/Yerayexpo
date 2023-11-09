@@ -3,6 +3,7 @@
 # About Me 
 <div align="center">
 Hello there! ✌️ My name is Yeray Exposito, and I am currently on the lookout for new career opportunities. 
+  
 📚 As of now, I am Teacher Assitant in a bootcamp.
 
 🎇 I’m currently focusing on Data Science</p>
