@@ -4,9 +4,9 @@
 <div align="center">
 Hello there! ✌️ My name is Yeray Exposito, and I am currently on the lookout for new career opportunities. </p>
   
-📚 As of now, I am Teacher Assitant in a bootcamp.</p>
-
 💬 Ask me about **Webscraping, Data visualization, Machine Learning, AWS**</p>
+
+📚 As of now, I am Teacher Assitant in a bootcamp.</p>
 
 🎇 I’m currently focusing on Data Science</p>
 
